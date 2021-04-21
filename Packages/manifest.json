@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.unity.audio.dspgraph": "0.1.0-preview.11",
+    "com.unity.audio.dspgraph": "0.1.0-preview.17",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ext.nunit": "1.0.0",
     "com.unity.ide.vscode": "1.2.0",
